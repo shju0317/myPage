@@ -65,7 +65,7 @@ body{
 .metro{
     color: white;
     position: absolute;
-    top: 80%;
+    top: 900px;
     left: 50%;
     width: 100%;
     margin-left: 15%;
@@ -82,8 +82,15 @@ body{
 }
 
 #introduce_name{
+    font-size: 25px;
     font-weight: bold;
     margin-bottom: 5px;
+}
+
+a{
+    color:darkblue;
+    text-decoration: none;
+    
 }
 
 table{
@@ -101,7 +108,7 @@ thead{
 
 .item{
     width: 650px;
-    height: 450px;
+    height: 550px;
     float: left;  
     margin: 4px;
     cursor: pointer;
