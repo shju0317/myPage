@@ -95,13 +95,16 @@ a{
 
 table{
     display: table;
-    border: 1px solid white;
+    border-collapse: collapse;
+    border: 2px solid white;
     width: 100%;
-    padding: 5px;
+    padding: 7px;
+    
 }
 
 thead{
     color: white;
+    border-bottom: 1px solid white;
     margin-bottom: 3px;
     font-size: 20px;
 }
