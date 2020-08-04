@@ -95,7 +95,7 @@ a{
 
 table{
     display: table;
-    border-collapse: collapse;
+    
     border: 2px solid white;
     width: 100%;
     padding: 7px;
@@ -103,10 +103,12 @@ table{
 }
 
 thead{
-    color: white;
-    border-bottom: 1px solid white;
-    margin-bottom: 3px;
+    color: white;    
     font-size: 20px;
+}
+
+th{
+    border-bottom: 1px solid white;
 }
 
 .item{
