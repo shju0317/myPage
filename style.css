@@ -113,7 +113,7 @@ th{
 }
 
 .item{
-    width: 650px;
+    width: 600px;
     height: 550px;
     float: left;  
     margin: 4px;
@@ -127,11 +127,11 @@ th{
 }
 
 .i1{
-    width: 400px;
+    width: 350px;
 }
 
 .i2{
-    width:900px;
+    width:850px;
 }
 
 .item:hover{
