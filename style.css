@@ -82,10 +82,17 @@ body{
     
 }
 
+#introduce_div{
+    background-color: rgba(14, 104, 165, 0.31);
+    padding: 10px;
+}
+
 #introduce_name{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
+    margin-top: 15px;
     margin-bottom: 5px;
+    color: #0560b6;
 }
 
 a{
