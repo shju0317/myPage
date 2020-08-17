@@ -9,7 +9,7 @@ body{
     background: #086A87;
 }
 
-.header{
+header{
     text-align: center;
     position: absolute;
     top: 15%;
@@ -18,7 +18,7 @@ body{
     width: 100%;
 }
 
-.header span{
+header span{
     text-transform: uppercase;
     display: block;
 }
@@ -175,4 +175,10 @@ th{
 
 .i5{
     background: #9858db;
+}
+
+footer{
+    text-align: center;
+    padding: 8px;
+    color: whitesmoke;
 }
