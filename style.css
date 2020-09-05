@@ -5,7 +5,8 @@
     list-style: none;
 }
 
-body{
+html,body{
+    width: 100%;
     background: #086A87;
 }
 
